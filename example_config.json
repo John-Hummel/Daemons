@@ -1,0 +1,6 @@
+{
+  "daemons": [
+    {"name": "ping", "command": "ping", "args": ["-c", "1", "localhost"], "autostart": true}
+  ],
+  "watchdogs": []
+}
